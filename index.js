@@ -1,3 +1,3 @@
 //empty javascript file
 
-//Yay, 
+//Yay, hi!
